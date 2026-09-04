@@ -19,4 +19,7 @@
     git status
     git restore testing.py
     git status
+    git remote add origin https://github.com/Sudarshan-Nikam/Github-for-devops.git
+    git remote -v
+    git push -u origin main
     
